@@ -8,8 +8,8 @@
   "allAtoms": [
     {
       "atomType": "Output",
-      "x": 0.98,
-      "y": 0.5,
+      "x": 0.8151483050847458,
+      "y": 0.2936893203883495,
       "uniqueID": "id-5",
       "ioValues": [
         {
@@ -20,8 +20,8 @@
     },
     {
       "atomType": "Import",
-      "x": 0.861228813559322,
-      "y": 0.5,
+      "x": 0.6567796610169492,
+      "y": 0.47572815533980584,
       "uniqueID": "id-7",
       "fileName": "Nessie Sign.svg",
       "name": "Import",
@@ -29,6 +29,13 @@
       "repoOwner": "aaronslow",
       "repoName": "test",
       "SVGwidth": 100
+    },
+    {
+      "atomType": "Assembly",
+      "x": 1.061228813559322,
+      "y": 0.5,
+      "uniqueID": "id-15",
+      "ioValues": []
     }
   ],
   "allConnectors": [],
